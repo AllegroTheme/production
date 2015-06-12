@@ -1,5 +1,6 @@
 # Allegro | Beautiful and Responsive
-By Franceska Mackinson - Version 1.0GRV (GitHub Release Version)
+By Franceska Mackinson - Version: GDV (GitHub Development Version) 
+ONLY USE THIS IF YOU WANT TO TRY THE THEME BEFORE ITS READY FOR RELEASE!
 
 Allegro is a beautiful responsive IPB 4 theme created for Webflake (webflake.sx) and is only officially uploaded to Webflake by the user "Erza", and to the official Allegro GitHub (Allegro Theme). If you see the theme uploaded elsewhere for download or even charged, please do not download those. Allegro is a free theme with clean edits, but requires patches when IPB4 is getting an update because of (necessary) modified theme files that are overwritten during an upgrade. The CSS however is 100% clean and is not overwritten during upgrades. 
 
