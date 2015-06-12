@@ -32,7 +32,7 @@ Want to know when a new patch is available? Keep an eye on the GitHub, or check 
 
 
 # Branches
-The production branch is for ready for release, stable versions of the theme and will be uploaded on Webflake as soon as possible. These can be used perfectly fine on a live website, and if you fancy being first I suggest you to download from GitHub! 
+The production branch (aka master) is for ready for release, stable versions of the theme and will be uploaded on Webflake as soon as possible. These can be used perfectly fine on a live website, and if you fancy being first I suggest you to download from GitHub! 
 
 The development branch is for test websites and are not ready yet for release, it contains changes I'm as of uploading satisified with but can be changed at any time. There will be an archive of versions kept in case you are happy with one version. 
 
